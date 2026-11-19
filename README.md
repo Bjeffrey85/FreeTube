@@ -5,6 +5,8 @@
 FreeTube is a stripped-down copy of Firefox that can only open YouTube. Sign in to your Google account here and it stays here. Your everyday browser stays logged out of Google, and YouTube's tracking stays out of the rest of your browsing.
 
 It looks and feels like a standalone app. It has its own icon in the taskbar and Start menu, and there's no address bar, no tabs and no menus. It opens straight to YouTube, with back, forward and reload buttons.
+
+
 <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/bf6f0313-26b6-4a97-87c5-cd0285c71638" />
 
 [![Download](https://img.shields.io/badge/Download-FreeTube--Setup.zip-14b8a6?style=for-the-badge&logo=windows)](https://github.com/Bjeffrey85/FreeTube/releases/latest/download/FreeTube-Setup.zip)
