@@ -9,7 +9,7 @@ It looks and feels like a standalone app. It has its own icon in the taskbar and
 
 <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/bf6f0313-26b6-4a97-87c5-cd0285c71638" />
 
-[![Download](https://img.shields.io/badge/Download-FreeTube--Setup.zip-14b8a6?style=for-the-badge&logo=windows)](https://github.com/Bjeffrey85/FreeTube/releases/latest/download/FreeTube-Setup.zip)
+[![Download](https://img.shields.io/badge/Download-FreeTube--Setup.zip-14b8a6?style=for-the-badge&logo=windows)](https://github.com/Bjeffrey85/FreeTube/releases/latest)
 
 
 ## Features
