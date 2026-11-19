@@ -7,10 +7,15 @@ FreeTube is a stripped-down copy of Firefox that can only open YouTube. Sign in 
 It looks and feels like a standalone app. It has its own icon in the taskbar and Start menu, and there's no address bar, no tabs and no menus. It opens straight to YouTube, with back, forward and reload buttons.
 
 
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/bf6f0313-26b6-4a97-87c5-cd0285c71638" />
-
-[![Download](https://img.shields.io/badge/Download-FreeTube--1.0.zip-14b8a6?style=for-the-badge&logo=windows)](https://github.com/Bjeffrey85/FreeTube/releases/latest)
-
+<p align="center">
+  <a href="https://github.com/Bjeffrey85/FreeTube/releases/latest">
+    <img width="256" height="256" alt="FreeTube" src="https://github.com/user-attachments/assets/bf6f0313-26b6-4a97-87c5-cd0285c71638" />
+  </a>
+  <br>
+  <a href="https://github.com/Bjeffrey85/FreeTube/releases/latest">
+    <img alt="Download" src="https://img.shields.io/badge/Download-FreeTube--1.0.zip-14b8a6?style=for-the-badge&logo=windows" />
+  </a>
+</p>
 
 ## Features
 
